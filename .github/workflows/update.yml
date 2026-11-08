@@ -18,6 +18,8 @@ jobs:
           python-version: "3.11"
       - run: pip install -r requirements.txt
       - run: python autopilot.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "unica-bot"
           git config user.email "unica-bot@users.noreply.github.com"

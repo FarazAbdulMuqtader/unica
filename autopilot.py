@@ -1,10 +1,27 @@
-import requests, yaml, json
+import os, time, json
+import requests, yaml
 from jinja2 import Template
 
 # ---------- SOURCES: each returns a list of normalized items ----------
 def github_source(cfg):
     url = f"https://api.github.com/users/{cfg['github']}/repos?per_page=100"
-    repos = requests.get(url, timeout=10).json()
+    headers = {}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, headers=headers, timeout=30)
+            resp.raise_for_status()
+            repos = resp.json()
+            break
+        except requests.RequestException as e:
+            print(f"GitHub attempt {attempt + 1} failed: {e}")
+            time.sleep(5 * (attempt + 1))
+    else:
+        raise SystemExit("GitHub API failed after 3 tries")
+
     return [{
         "source": "github",
         "title": r["name"],

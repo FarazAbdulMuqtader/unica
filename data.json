@@ -1,16 +1,6 @@
 [
   {
     "source": "github",
-    "title": "unica",
-    "description": "",
-    "tags": [
-      "HTML"
-    ],
-    "url": "https://github.com/FarazAbdulMuqtader/unica",
-    "updated": "2026-11-08T12:05:57Z"
-  },
-  {
-    "source": "github",
     "title": "OOPs_food_delivery_platform",
     "description": "Python food ordering system with both a console app and an orange-and-black Tkinter GUI. Browse restaurant menus, manage a cart, and check out with 17% GST, built on clean OOP design.",
     "tags": [
@@ -18,16 +8,6 @@
     ],
     "url": "https://github.com/FarazAbdulMuqtader/OOPs_food_delivery_platform",
     "updated": "2026-11-02T17:11:35Z"
-  },
-  {
-    "source": "github",
-    "title": "GUIs",
-    "description": "",
-    "tags": [
-      "Python"
-    ],
-    "url": "https://github.com/FarazAbdulMuqtader/GUIs",
-    "updated": "2026-11-01T09:59:58Z"
   },
   {
     "source": "github",
@@ -51,14 +31,6 @@
   },
   {
     "source": "github",
-    "title": "FarazAbdulMuqtader",
-    "description": "",
-    "tags": [],
-    "url": "https://github.com/FarazAbdulMuqtader/FarazAbdulMuqtader",
-    "updated": "2026-09-23T09:44:09Z"
-  },
-  {
-    "source": "github",
     "title": "OOPS_Faculty_remuneration_system",
     "description": "A Python OOP mini-project simulating a Higher Education Institution's faculty remuneration system \u2014 models full-time and visiting faculty (industry-trained & inter-departmental) with polymorphic salary calculation against a fixed institute budget, via a console menu.",
     "tags": [
@@ -76,16 +48,6 @@
     ],
     "url": "https://github.com/FarazAbdulMuqtader/C-OOPs-fund-concepts_projects",
     "updated": "2026-08-24T15:59:00Z"
-  },
-  {
-    "source": "github",
-    "title": "C_mini_codes",
-    "description": "",
-    "tags": [
-      "C++"
-    ],
-    "url": "https://github.com/FarazAbdulMuqtader/C_mini_codes",
-    "updated": "2026-08-21T10:03:06Z"
   },
   {
     "source": "github",

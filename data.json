@@ -1,6 +1,16 @@
 [
   {
     "source": "github",
+    "title": "unica",
+    "description": "",
+    "tags": [
+      "HTML"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/unica",
+    "updated": "2026-11-08T12:05:57Z"
+  },
+  {
+    "source": "github",
     "title": "OOPs_food_delivery_platform",
     "description": "Python food ordering system with both a console app and an orange-and-black Tkinter GUI. Browse restaurant menus, manage a cart, and check out with 17% GST, built on clean OOP design.",
     "tags": [

@@ -1,0 +1,90 @@
+[
+  {
+    "source": "github",
+    "title": "OOPs_food_delivery_platform",
+    "description": "Python food ordering system with both a console app and an orange-and-black Tkinter GUI. Browse restaurant menus, manage a cart, and check out with 17% GST, built on clean OOP design.",
+    "tags": [
+      "Python"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/OOPs_food_delivery_platform",
+    "updated": "2026-11-02T17:11:35Z"
+  },
+  {
+    "source": "github",
+    "title": "GUIs",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/GUIs",
+    "updated": "2026-11-01T09:59:58Z"
+  },
+  {
+    "source": "github",
+    "title": "python-mini-projects",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/python-mini-projects",
+    "updated": "2026-10-27T15:29:33Z"
+  },
+  {
+    "source": "github",
+    "title": "Roman-Urdu-Sentiment-Analysis",
+    "description": "\"Sentiment analysis model for Roman Urdu, fine-tuned on XLM-RoBERTa over a ~129K-sample corpus (81% accuracy). Includes a live Gradio demo \u2014 covers preprocessing, tokenization, GPU fine-tuning, and evaluation for a low-resource, code-mixed language most NLP tooling skips.\"",
+    "tags": [
+      "Jupyter Notebook"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/Roman-Urdu-Sentiment-Analysis",
+    "updated": "2026-09-29T10:01:36Z"
+  },
+  {
+    "source": "github",
+    "title": "FarazAbdulMuqtader",
+    "description": "",
+    "tags": [],
+    "url": "https://github.com/FarazAbdulMuqtader/FarazAbdulMuqtader",
+    "updated": "2026-09-23T09:44:09Z"
+  },
+  {
+    "source": "github",
+    "title": "OOPS_Faculty_remuneration_system",
+    "description": "A Python OOP mini-project simulating a Higher Education Institution's faculty remuneration system \u2014 models full-time and visiting faculty (industry-trained & inter-departmental) with polymorphic salary calculation against a fixed institute budget, via a console menu.",
+    "tags": [
+      "Python"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/OOPS_Faculty_remuneration_system",
+    "updated": "2026-09-11T16:05:18Z"
+  },
+  {
+    "source": "github",
+    "title": "C-OOPs-fund-concepts_projects",
+    "description": "",
+    "tags": [
+      "C++"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/C-OOPs-fund-concepts_projects",
+    "updated": "2026-08-24T15:59:00Z"
+  },
+  {
+    "source": "github",
+    "title": "C_mini_codes",
+    "description": "",
+    "tags": [
+      "C++"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/C_mini_codes",
+    "updated": "2026-08-21T10:03:06Z"
+  },
+  {
+    "source": "github",
+    "title": "C-Open_Gl-Glut-Eid_card",
+    "description": "A 2D/3D animated Eid Mubarak greeting card built using C, OpenGL, and the GLUT library.",
+    "tags": [
+      "C++"
+    ],
+    "url": "https://github.com/FarazAbdulMuqtader/C-Open_Gl-Glut-Eid_card",
+    "updated": "2026-08-13T18:14:40Z"
+  }
+]

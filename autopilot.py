@@ -29,7 +29,7 @@ def github_source(cfg):
         "tags": [r["language"]] if r["language"] else [],
         "url": r["html_url"],
         "updated": r["updated_at"],
-    } for r in repos if not r["fork"]]
+    } for r in repos if not r["fork"] and r["name"] not in cfg.get("hide", [])]
 
 SOURCES = [github_source]          # add new sources here later
 
